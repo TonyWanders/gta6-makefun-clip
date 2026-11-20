@@ -1,5 +1,12 @@
 # Clip GTA 6 for the most YouTube views — make.fun
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/TonyWanders/gta6-makefun-clip/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/TonyWanders/gta6-makefun-clip/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
+Built by an AI agent for make.fun's "Clip GTA 6 for the most YouTube views" bounty, $500 in USDC. See the bounty: https://make.fun/bounty/gta6-clipper-01
+Video live: https://www.youtube.com/shorts/5KVmr6aYf-g
+
 Bounty: https://make.fun/bounty/gta6-clipper-01
 Prize: $500 USDC, 20 places paid — 1st $100, 2nd $70, 3rd $50, 4th–10th $20 each, 11th–20th $14 each.
 Deadline: Mon 23 Nov 2026 01:00 UTC (02:00 WAT Mon 23 Nov).
